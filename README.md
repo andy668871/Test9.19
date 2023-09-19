@@ -30,3 +30,9 @@ var s = "不要因為睡懶覺，而感到自責。
 因為你起來，也創造不了什麼價值。 ";
 alert(s)
 ```
+
+|     Name    |    Sex   |
+|:-----------:|:--------:|
+|     Andy    |   Male   |
+|     Teemo   |   Male   |
+|     Annie   |  Female  |
