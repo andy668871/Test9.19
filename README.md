@@ -13,10 +13,9 @@
 ![GLOBAL](global.jpg "GLOBAL")
 
 - [ ] to do list
-- [x] 1st thing
-- [ ] 2nd thing
-- [ ] 3rd thing
-- [ ] 4th thing
+- [ ] Study
+- [ ] Work
+- [x] Sleep
 
 ```python
 s = "不要因為睡懶覺，而感到自責。
